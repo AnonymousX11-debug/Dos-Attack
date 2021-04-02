@@ -1,13 +1,29 @@
 # Dos-Attack
 DISTRIBUTED DENIAL OF SERVICE THIS TOOL SEND PACKETS TO WEBSERVERS IP ADDRESSES BY FLOODING THE WEBSITE AND MAKING IT 
 
- # INSTALLATION 
-pkg update,
-pkg upgrade,
-pkg install git
-git clone https://github.com/AnonymousX11-debug/Dos-Attack,
-cd Dos-Attack,
-python2 Dos-Attack.py
+ 
+This tool can be installed into your various systems.
 
-# DisCliamer 
-I Am not Held for Any Misuse Of the Tool
+
+# Tested on
+#### >> [+] Termux !
+#### >> [+] Parrot !
+
+# Author
+**AɴᴏɴʏᴍᴏᴜsDᴇʙᴜɢ**
+
+<p align="center">
+With this Tool You Can Make a Malicious  Virus
+</p>
+
+# Installation in Termux
+> pkg update 
+
+> pkg upgrade
+
+> git clone https://github.com/AnonymousX11-debug/Dos-Attack
+
+>cd Dos-Attack
+
+>python2 Dos-Attack.py
+
